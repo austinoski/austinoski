@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @austinoski
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in Backend / Frontend Development
+- 🌱 I’m currently learning Vuejs and Express.js
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me ... See below
 
@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 Hi, I'm Josiah Augustine Onyemaechi @Austinoski.  
 I'm interested in Backend Development with Django and Flask.  
-I'm currently learning SQL with Microsoft SQL Server and Backend Development with Golang.  
+I'm currently learning SQL with Microsoft SQL Server and Frontend Development with Vue.js.  
 I'm looking to collaborate on any open source project that can help build my skill proficiency.  
 You can reach me on the following platforms.  
 
